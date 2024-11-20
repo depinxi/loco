@@ -27,7 +27,7 @@
 		"test": "composer lint && composer cs && composer unit"
 	}, 
 	"replace": {
-		"ferno/loco": "dev-master"
+		"ferno/loco": "dev-main"
 	}, 
 	"description": "Grammar parsing library for PHP", 
 	"extra": {
